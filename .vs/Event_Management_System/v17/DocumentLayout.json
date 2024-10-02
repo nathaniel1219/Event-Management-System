@@ -1,0 +1,625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|c:\\users\\natha\\onedrive\\desktop\\event_management_system\\event_management_system\\peoplemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\peoplemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\eventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\organizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\viewparticipantevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\viewparticipantevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\participantdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\participantdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\organizerdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\organizerdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\viewusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\viewusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\viewusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\viewusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\createevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\createevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\createevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\createevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\editorganizers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\editorganizers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\editorganizers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\editorganizers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\admineditevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\admineditevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\viewevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\viewevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\imanageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\imanageevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\admineditevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\admineditevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\editparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\editparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\editevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\editevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\viewparticipantevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\viewparticipantevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\rsvp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\editparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\editparticipants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\participantdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\participantdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\organizerdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\organizerdash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\editevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\editevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\viewevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\viewevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\event_management_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C3B2FB-754C-4359-9353-F554483F727F}|Event_Management_System\\Event_Management_System.csproj|solutionrelative:event_management_system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Person.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Person.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Person.cs",
+              "RelativeToolTip": "Event_Management_System\\Person.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T03:34:18.312Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeopleManager.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\PeopleManager.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\PeopleManager.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\PeopleManager.cs",
+              "RelativeToolTip": "Event_Management_System\\PeopleManager.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAgwLMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:38:55.547Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventManager.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EventManager.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\EventManager.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EventManager.cs",
+              "RelativeToolTip": "Event_Management_System\\EventManager.cs",
+              "ViewState": "AQIAABwCAAAAAAAAAAAiwMoBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:30:21.098Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Admin.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Admin.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Admin.cs",
+              "RelativeToolTip": "Event_Management_System\\Admin.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:34:34.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\IAuth.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\IAuth.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\IAuth.cs",
+              "RelativeToolTip": "Event_Management_System\\IAuth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T02:03:22.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewParticipantEvents.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewParticipantEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\ViewParticipantEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewParticipantEvents.cs",
+              "RelativeToolTip": "Event_Management_System\\ViewParticipantEvents.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:22:20.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ViewParticipantEvents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewParticipantEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\ViewParticipantEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewParticipantEvents.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\ViewParticipantEvents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T05:49:21.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RSVP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\RSVP.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\RSVP.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\RSVP.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\RSVP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T01:38:27.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RSVP.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\RSVP.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\RSVP.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\RSVP.cs",
+              "RelativeToolTip": "Event_Management_System\\RSVP.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:08:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipantDash.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ParticipantDash.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\ParticipantDash.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ParticipantDash.cs",
+              "RelativeToolTip": "Event_Management_System\\ParticipantDash.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAMwCUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:52:21.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ParticipantDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ParticipantDash.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\ParticipantDash.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ParticipantDash.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\ParticipantDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T00:52:06.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EditParticipants.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditParticipants.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\EditParticipants.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditParticipants.cs",
+              "RelativeToolTip": "Event_Management_System\\EditParticipants.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvyoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:30:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EditParticipants.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditParticipants.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\EditParticipants.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditParticipants.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\EditParticipants.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:29:23.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditOrganizers.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditOrganizers.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\EditOrganizers.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditOrganizers.cs",
+              "RelativeToolTip": "Event_Management_System\\EditOrganizers.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwCsAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:51:15.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EditOrganizers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditOrganizers.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\EditOrganizers.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditOrganizers.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\EditOrganizers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T14:48:47.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewUsers.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewUsers.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\ViewUsers.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewUsers.cs",
+              "RelativeToolTip": "Event_Management_System\\ViewUsers.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADgvywAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:51:19.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewUsers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewUsers.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\ViewUsers.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewUsers.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\ViewUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:45:40.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminEditEvents.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminEditEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\AdminEditEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminEditEvents.cs",
+              "RelativeToolTip": "Event_Management_System\\AdminEditEvents.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:21:47.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminEditEvents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminEditEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\AdminEditEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminEditEvents.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\AdminEditEvents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:11:30.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminDash.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminDash.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\AdminDash.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminDash.cs",
+              "RelativeToolTip": "Event_Management_System\\AdminDash.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAD4vxUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:40:30.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminDash.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\AdminDash.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminDash.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\AdminDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:12:26.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EditEvents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\EditEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditEvents.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\EditEvents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:33:26.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditEvents.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\EditEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\EditEvents.cs",
+              "RelativeToolTip": "Event_Management_System\\EditEvents.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwCoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:39:12.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ViewEvents.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\ViewEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewEvents.cs",
+              "RelativeToolTip": "Event_Management_System\\ViewEvents.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:11:20.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ViewEvents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\ViewEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\ViewEvents.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\ViewEvents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T09:54:28.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Organizer.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Organizer.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Organizer.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Organizer.cs",
+              "RelativeToolTip": "Event_Management_System\\Organizer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:40:16.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateEvents.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\CreateEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\CreateEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\CreateEvents.cs",
+              "RelativeToolTip": "Event_Management_System\\CreateEvents.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAgwF8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:10:51.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateEvents.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\CreateEvents.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\CreateEvents.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\CreateEvents.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\CreateEvents.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:00:17.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrganizerDash.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\OrganizerDash.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\OrganizerDash.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\OrganizerDash.cs",
+              "RelativeToolTip": "Event_Management_System\\OrganizerDash.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAIA3wC0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:27:54.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrganizerDash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\OrganizerDash.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\OrganizerDash.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\OrganizerDash.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\OrganizerDash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T05:25:55.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IManageEvent.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\IManageEvent.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\IManageEvent.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\IManageEvent.cs",
+              "RelativeToolTip": "Event_Management_System\\IManageEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T03:20:57.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Event.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Event.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Event.cs",
+              "RelativeToolTip": "Event_Management_System\\Event.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T00:20:04.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\SignUp.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\SignUp.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\SignUp.cs",
+              "RelativeToolTip": "Event_Management_System\\SignUp.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAswB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:02:52.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\SignUp.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\SignUp.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\SignUp.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:55:36.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T08:45:18.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminLogin.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\AdminLogin.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\AdminLogin.cs",
+              "RelativeToolTip": "Event_Management_System\\AdminLogin.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwDUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T10:00:37.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Login.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Login.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Login.cs",
+              "RelativeToolTip": "Event_Management_System\\Login.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAwwFwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:24:51.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Login.cs",
+              "RelativeDocumentMoniker": "Event_Management_System\\Login.cs",
+              "ToolTip": "C:\\Users\\natha\\OneDrive\\Desktop\\Event_Management_System\\Event_Management_System\\Login.cs [Design]",
+              "RelativeToolTip": "Event_Management_System\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:16:54.7Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
